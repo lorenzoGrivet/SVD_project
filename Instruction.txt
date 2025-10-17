@@ -1,0 +1,6 @@
+The folder contains the python files and the sources needed. To execute the program, open and run the files "image_compression.py" and "audio.py", respectively regarding part one and two of the Homework. The images will pop up as Python figure.
+
+Please open in the IDE the directory Gaudino_GrivetTalocia_HW3 before running the program (There are some paths referring to the parent directory)
+
+The other two python files ("test_audio.py" and "test_pnnr.py") are only used for testing the program to create the graphs, you don't need to open or run them.
+When you tun the file, in the directory the program will save the audio files.
